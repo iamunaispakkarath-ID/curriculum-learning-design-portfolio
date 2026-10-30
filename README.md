@@ -1,4 +1,4 @@
-# Unais P — Curriculum & Learning Design Portfolio
+# Unais P - Curriculum & Learning Design Portfolio
 
 Responsive static website ready for GitHub Pages.
 
